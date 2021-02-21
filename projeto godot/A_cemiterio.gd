@@ -10,7 +10,7 @@ func _ready():
 	pass
 
 func _pressed():
-	print("Errado")
+	# print("Errado")
 	var opcao = get_node("/root/Cemiterio/TileMap/NPC2")
 	opcao.tentativas-=1
 	# chama a função para desabilitar o botao.

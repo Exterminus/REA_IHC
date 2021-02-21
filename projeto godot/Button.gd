@@ -11,7 +11,7 @@ func _ready():
 
 func _pressed():
 	get_tree().change_scene("res://Forest.tscn")
-	print ("entrei")
+	# print ("entrei")
 #func _process(delta):
 #	# Called every frame. Delta is time since last frame.
 #	# Update game logic here.

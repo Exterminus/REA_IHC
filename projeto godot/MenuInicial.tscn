@@ -39,6 +39,9 @@ margin_bottom = 350.0
 theme = SubResource( 1 )
 flat = true
 script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="ComoJogar" type="Button" parent="."]
 margin_left = 380.0

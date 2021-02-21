@@ -18,12 +18,12 @@ func colisao(body):
 
 
 func saiu(body):
-	print("Saiu da zona")
+	# print("Saiu da zona")
 	interacao=0
 
 func _process(delta):
 	if(interacao and Input.is_action_pressed("ui_accept")):
-		print("Clique")
+		# print("Clique")
 		mensagem()
 	# print(is_colliding())
 #	# Called every frame. Delta is time since last frame.

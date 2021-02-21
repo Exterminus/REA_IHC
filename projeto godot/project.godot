@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Md Investigacões - Mansão mal assombrada"
+config/description="Md Investigações - Jogo para reforço de aprendizagem de lógica."
 run/main_scene="res://MenuInicial.tscn"
 config/icon="res://icon.png"
 
